@@ -1,0 +1,37 @@
+#img {
+    width: 500px;
+    height: 400px;
+    border: 8px solid white;
+
+}
+
+.image {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+#prevBtn {
+
+    background-color: blueviolet;
+    height: 40px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+#nextBtn {
+
+    background-color: blueviolet;
+    height: 40px;
+    width: 100px;
+    margin-right: 10px;
+
+}
